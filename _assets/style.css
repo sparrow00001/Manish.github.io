@@ -1,0 +1,16 @@
+/* Change font family and background color */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style headings */
+h1 {
+    color: #333;
+}
+
+/* Style links */
+a {
+    text-decoration: none;
+    color: #007acc;
+}
