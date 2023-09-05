@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="_assets/style.css">
 
 ![Your Profile Picture](link_to_profile_picture.jpg)
 
