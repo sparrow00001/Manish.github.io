@@ -1,16 +1,38 @@
 /* Change font family and background color */
+
+/* Apply a textured paper background */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-image: url('vintage-paper-texture.jpg');
+    /* Replace with your texture image */
+    background-repeat: repeat;
+    /* Repeat the background image */
+    background-color: #f8f3e9;
+    /* Set a background color for older browsers */
 }
 
-/* Style headings */
-h1 {
-    color: #333;
+/* Adjust font colors for a vintage look */
+body {
+    color: #5c5248;
+    /* Dark brown text color */
 }
 
-/* Style links */
+/* Style headings with a retro font */
+h1,
+h2,
+h3 {
+    font-family: 'Your Vintage Font', cursive;
+    /* Use a vintage-style font */
+    color: #9a8464;
+    /* Light brown heading color */
+}
+
+/* Style links with a vintage color */
 a {
-    text-decoration: none;
-    color: #007acc;
+    color: #b87e50;
+    /* Brown link color */
+}
+
+/* Add a sepia filter to profile pictures for a vintage photo effect */
+img.profile-picture {
+    filter: sepia(70%);
 }
