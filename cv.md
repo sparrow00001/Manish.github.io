@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="_assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 This is me, Manish, a software developer.
